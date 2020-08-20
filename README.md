@@ -1,6 +1,5 @@
 # ERP.AERO
 
-### Tech
 ---
 ERP.AERO uses several technologies:
 
