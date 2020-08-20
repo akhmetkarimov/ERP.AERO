@@ -47,17 +47,7 @@ sequelize db:migrate
 nodemon
 ```
 
-   [PostgreSQL]: <https://www.postgresql.org/>
+   [MySQL(PhpMyAdmin Mamp)]: <https://www.mamp.info/en/downloads/>
    [Sequelize]: <https://sequelize.org/>
-   [ReactJS]: <https://reactjs.org/>
-   [Monako Editor]: <https://microsoft.github.io/monaco-editor/>
-   [Redux]: <https://redux.js.org/>
-   [AntDesign]: <https://ant.design/>
-   [Mocha]: <https://mochajs.org/>
-   [Chai]: <https://www.chaijs.com/>
-   [Seed Barista]: <https://github.com/helpscout/seed-barista>
-   [Docker and Docker-compose]: <https://www.docker.com/products/docker-desktop>
-   [Webpack]: <https://webpack.js.org/>
-   [CKEditor]: <https://ckeditor.com/>
    [node.js]: <http://nodejs.org>
    [express]: <http://expressjs.com>
