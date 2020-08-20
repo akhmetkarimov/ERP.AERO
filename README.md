@@ -6,7 +6,7 @@ ERP.AERO uses several technologies:
 
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework 
-* [MySQL] - an open source object-relational database system.
+* [MySQL(PhpMyAdmin Mamp)] - an open source object-relational database system.
 * [Sequelize] - Promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server
 
 ###  Requirements
@@ -35,7 +35,6 @@ npm i
 In config.json change development database configurations(databasename, username, password).
 ```bash
 # Migrate database using sequelize-cli.
-cd server
 sequelize db:create
 sequelize db:migrate
 
