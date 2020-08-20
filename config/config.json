@@ -1,0 +1,13 @@
+{
+    "development": {
+        "username": "aero",
+        "password": "aero",
+        "database": "aero",
+        "host": "localhost",
+        "port": "8889",
+        "dialect": "mysql",
+        "define": {
+            "timestamps": false
+        }
+    }
+}

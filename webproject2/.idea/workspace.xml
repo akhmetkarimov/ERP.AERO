@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d0879e8-4907-4201-88af-cba2883b7157" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/shop-front-endd/src/components/about/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-front-endd/src/components/about/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-front-endd/src/components/contacts/contacts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-front-endd/src/components/contacts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-front-endd/src/components/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-front-endd/src/components/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-front-endd/src/components/product-list/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop-front-endd/src/containers/product-details/product-detail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-front-endd/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/shop-front-endd/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-front-endd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/shop-front-endd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-front-endd/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/shop-front-endd/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-front-endd/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/shop-front-endd/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-front-endd/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/shop-front-endd/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-front-endd/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shop-front-endd" />
+  </component>
+  <component name="ProjectId" id="1S60DxFKHRm4X6elUG6cksD46eI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shop-front-endd/src/components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="webproject2" type="Python.DjangoServer" factoryName="Django server">
+      <module name="webproject2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d0879e8-4907-4201-88af-cba2883b7157" name="Default Changelist" comment="" />
+      <created>1570868621351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570868621351</updated>
+      <workItem from="1570868622562" duration="12170000" />
+      <workItem from="1571390780624" duration="18010000" />
+      <workItem from="1571418449908" duration="858000" />
+      <workItem from="1571428825402" duration="2255000" />
+      <workItem from="1571451633776" duration="2555000" />
+      <workItem from="1571461008609" duration="522000" />
+      <workItem from="1571465764555" duration="650000" />
+      <workItem from="1571470682264" duration="820000" />
+      <workItem from="1572075560071" duration="118000" />
+      <workItem from="1573285147666" duration="2890000" />
+      <workItem from="1573736488978" duration="333000" />
+      <workItem from="1574014379955" duration="23000" />
+      <workItem from="1575387822379" duration="6560000" />
+      <workItem from="1575563981858" duration="7351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575440248026">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1575440248026" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575439564812">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575439564812" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575575958135">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1575575958135" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1575444706402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1575444706402" />
+  </component>
+</project>
