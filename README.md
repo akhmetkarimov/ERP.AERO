@@ -11,6 +11,7 @@ ERP.AERO uses several technologies:
 ###  Requirements
 ---
 - [Node v14.8.0+](https://nodejs.org/en/download/current/)
+- [Link to Postman Collection](https://www.getpostman.com/collections/1f18ebc7b8963e7193a3)
 
 ###  Getting Started
 ---
